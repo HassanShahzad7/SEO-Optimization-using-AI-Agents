@@ -1,0 +1,1770 @@
+[
+    {
+        "id": 282494,
+        "metadata": {
+            "Keywords": [
+                "Chrome extension security",
+                "crypto-wallet theft",
+                "browser extension vulnerabilities"
+            ],
+            "Description": "A Chrome extension is found stealing crypto-wallet private keys, raising security concerns.",
+            "Tags": [
+                "security",
+                "theft",
+                "wallet",
+                "crypto",
+                "Chrome",
+                "vulnerabilities",
+                "extension"
+            ],
+            "Title": "Shitcoin Wallet Extension Exposes Crypto Private Keys",
+            "H1": "Investigation Reveals Chrome Extension Stealing Crypto Wallet Keys",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282494,
+        "metadata": {
+            "Keywords": [
+                "Chrome extension security",
+                "crypto wallet theft",
+                "browser extension vulnerabilities"
+            ],
+            "Description": "A Chrome extension is found stealing crypto wallet keys, raising security concerns.",
+            "Tags": [
+                "investigation",
+                "extension",
+                "browser",
+                "crypto",
+                "security",
+                "theft",
+                "vulnerability"
+            ],
+            "Title": "Chrome Extension Exposes Crypto Wallet Keys: Security Alert",
+            "H1": "Investigation Uncovers Chrome Extension Compromising Crypto Wallet Security",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282494,
+        "metadata": {
+            "Keywords": [
+                "Chrome extension security",
+                "crypto wallet vulnerability",
+                "browser extension risks"
+            ],
+            "Description": "A Chrome extension compromises crypto wallet security, exposing users to risks.",
+            "Tags": [
+                "investigation",
+                "security",
+                "extension",
+                "crypto",
+                "wallet",
+                "threat",
+                "vulnerability"
+            ],
+            "Title": "Shitcoin Wallet Extension Exposes Crypto Users to Security Risks",
+            "H1": "Investigation Reveals Chrome Extension Threatening Crypto Wallet Security",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282500,
+        "metadata": {
+            "Keywords": [
+                "machine learning",
+                "security threats",
+                "vulnerabilities",
+                "open source",
+                "AI technology"
+            ],
+            "Description": "Explore how machine learning enhances security measures against vulnerabilities.",
+            "Tags": [
+                "protection",
+                "technology",
+                "analysis",
+                "threat",
+                "data",
+                "innovation",
+                "vulnerability"
+            ],
+            "Title": "Enhancing Security with Machine Learning in Linux",
+            "H1": "How Machine Learning Strengthens Linux Security Against Threats",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282494,
+        "metadata": {
+            "Keywords": [
+                "Chrome extension security",
+                "crypto wallet threats",
+                "browser vulnerabilities"
+            ],
+            "Description": "A Chrome extension endangers crypto wallets, revealing serious security flaws.",
+            "Tags": [
+                "investigation",
+                "crypto",
+                "security",
+                "wallet",
+                "extension",
+                "Chrome",
+                "threat"
+            ],
+            "Title": "Chrome Extension Exposes Crypto Wallet Vulnerabilities",
+            "H1": "Investigation Uncovers Chrome Extension Risks to Crypto Wallet Security",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282500,
+        "metadata": {
+            "Keywords": [
+                "machine learning",
+                "threat detection",
+                "Linux vulnerabilities",
+                "security automation",
+                "data analysis"
+            ],
+            "Description": "Explore how machine learning enhances Linux security by improving threat detection and response.",
+            "Tags": [
+                "anomaly detection",
+                "data analysis",
+                "vulnerability assessment",
+                "threat detection",
+                "security automation",
+                "malware detection",
+                "incident response"
+            ],
+            "Title": "Enhancing Linux Security with Machine Learning Techniques",
+            "H1": "Leveraging Machine Learning to Fortify Linux Security Against Emerging Threats",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 282501,
+        "metadata": {
+            "Keywords": [
+                "Rowhammer attacks",
+                "FPGA vulnerabilities",
+                "memory corruption",
+                "hardware exploitation",
+                "security research"
+            ],
+            "Description": "Explore how FPGA cards enhance Rowhammer attacks for improved reliability.",
+            "Tags": [
+                "memory",
+                "attack",
+                "rowhammer",
+                "fpga",
+                "research",
+                "vulnerability",
+                "exploitation"
+            ],
+            "Title": "FPGA Cards Enhance Rowhammer Attack Efficiency",
+            "H1": "Understanding the Risks of FPGA-Enhanced Rowhammer Attacks",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282501,
+        "metadata": {
+            "Keywords": [
+                "Rowhammer attacks",
+                "FPGA vulnerabilities",
+                "hardware security",
+                "memory corruption",
+                "attack vectors"
+            ],
+            "Description": "Explore how FPGA cards enhance Rowhammer attacks and their implications for security.",
+            "Tags": [
+                "fpga",
+                "hardware",
+                "vulnerability",
+                "rowhammer",
+                "research",
+                "attack",
+                "memory"
+            ],
+            "Title": "FPGA Exploits: Enhancing Rowhammer Attack Efficiency",
+            "H1": "Understanding the Role of FPGA Cards in Rowhammer Attack Strategies",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282502,
+        "metadata": {
+            "Keywords": [
+                "USB security",
+                "Linux vulnerabilities",
+                "data theft prevention",
+                "hardware security",
+                "Linux laptop protection"
+            ],
+            "Description": "A new USB cable poses risks to Linux laptops if stolen in public, highlighting security vulnerabilities.",
+            "Tags": [
+                "hardware",
+                "vulnerability",
+                "protection",
+                "USB",
+                "data theft",
+                "laptop",
+                "security"
+            ],
+            "Title": "Risks of New USB Cable for Linux Laptops in Public Spaces",
+            "H1": "How a New USB Cable Can Compromise Your Linux Laptop Security",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282502,
+        "metadata": {
+            "Keywords": [
+                "USB security",
+                "Linux vulnerabilities",
+                "data theft prevention"
+            ],
+            "Description": "A new USB cable poses risks to Linux laptops if stolen in public, highlighting security concerns.",
+            "Tags": [
+                "USB",
+                "public safety",
+                "information security",
+                "data theft",
+                "hardware risks",
+                "laptop security",
+                "device protection"
+            ],
+            "Title": "USB Cable Threat: Protect Your Linux Laptop from Theft",
+            "H1": "How a New USB Cable Can Compromise Your Linux Laptop Security",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282503,
+        "metadata": {
+            "Keywords": [
+                "Python 2.7",
+                "end of life",
+                "software development",
+                "Python support",
+                "legacy software"
+            ],
+            "Description": "Python 2.7 reaches end of life, impacting users and developers worldwide.",
+            "Tags": [
+                "software",
+                "community",
+                "legacy",
+                "python",
+                "programming",
+                "development",
+                "support"
+            ],
+            "Title": "Python 2.7 Support Ends: What Users Need to Know",
+            "H1": "Understanding the Impact of Python 2.7 Reaching End of Life",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282503,
+        "metadata": {
+            "Keywords": [
+                "Python 2.7",
+                "end of life",
+                "software development",
+                "Python support",
+                "legacy software"
+            ],
+            "Description": "Python 2.7 reaches end of life, impacting users and developers worldwide.",
+            "Tags": [
+                "legacy",
+                "programming",
+                "development",
+                "software",
+                "support",
+                "community",
+                "python"
+            ],
+            "Title": "Impact of Python 2.7 End of Life on Developers",
+            "H1": "Understanding the Implications of Python 2.7 Reaching End of Life",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282504,
+        "metadata": {
+            "Keywords": [
+                "Linux kernel vulnerabilities",
+                "Debian security updates",
+                "SUSE advisory",
+                "CVE tracking",
+                "security patches"
+            ],
+            "Description": "Explore the latest Linux security advisories and updates for January 3rd, 2020.",
+            "Tags": [
+                "cve",
+                "patch",
+                "advisory",
+                "debian",
+                "suse",
+                "security",
+                "kernel"
+            ],
+            "Title": "Critical Linux Kernel Vulnerabilities and Security Updates - January 2020",
+            "H1": "Latest Security Advisories for Linux: January 3rd, 2020 Updates",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282504,
+        "metadata": {
+            "Keywords": [
+                "Linux kernel vulnerabilities",
+                "Debian security updates",
+                "SUSE advisory",
+                "CVE tracking",
+                "security patches"
+            ],
+            "Description": "Explore critical Linux security updates and advisories from January 3rd, 2020.",
+            "Tags": [
+                "cve",
+                "debian",
+                "advisory",
+                "security",
+                "vulnerability",
+                "kernel",
+                "suse"
+            ],
+            "Title": "Critical Linux Security Updates: January 3rd, 2020",
+            "H1": "Overview of Linux Security Advisories and Updates for January 3rd, 2020",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282504,
+        "metadata": {
+            "Keywords": [
+                "Linux kernel vulnerabilities",
+                "Debian security updates",
+                "SUSE advisory",
+                "CVE tracking",
+                "security patches"
+            ],
+            "Description": "Explore the latest Linux security advisories and updates for January 3rd, 2020.",
+            "Tags": [
+                "debian",
+                "suse",
+                "kernel",
+                "cve",
+                "patch",
+                "security",
+                "advisory"
+            ],
+            "Title": "Critical Linux Kernel Vulnerabilities and Security Updates - January 2020",
+            "H1": "Latest Security Advisories for Linux: January 3rd, 2020 Updates",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282548,
+        "metadata": {
+            "Keywords": [
+                "Kali Linux",
+                "non-root user",
+                "Linux distribution",
+                "security update",
+                "user permissions"
+            ],
+            "Description": "Kali Linux 2020.1 shifts to a non-root user default for enhanced security.",
+            "Tags": [
+                "Kali",
+                "security update",
+                "Linux distribution",
+                "2020.1",
+                "user permissions",
+                "default settings"
+            ],
+            "Title": "Kali Linux 2020.1 Update: Default Non-Root User Change",
+            "H1": "Kali Linux 2020.1 Release: Transition to Non-Root User Default",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282549,
+        "metadata": {
+            "Keywords": [
+                "Linux 5.5-rc5",
+                "performance regression",
+                "kernel fixes",
+                "development updates",
+                "Linux release notes"
+            ],
+            "Description": "Linux 5.5-rc5 brings crucial fixes and addresses a significant performance regression.",
+            "Tags": [
+                "fixes",
+                "kernel",
+                "release",
+                "development",
+                "regression",
+                "updates",
+                "performance"
+            ],
+            "Title": "Linux 5.5-rc5 Update: Key Fixes and Performance Improvements",
+            "H1": "Overview of Linux 5.5-rc5: Fixes and Performance Regression Addressed",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282550,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "security updates",
+                "malicious extensions",
+                "TensorFlow security",
+                "FPGA risks"
+            ],
+            "Description": "Explore the latest Linux security updates and vulnerabilities from January 6th, 2020.",
+            "Tags": [
+                "malware",
+                "vulnerabilities",
+                "risks",
+                "FPGA",
+                "threats",
+                "updates",
+                "TensorFlow"
+            ],
+            "Title": "Critical Linux Vulnerabilities and Updates: January 2020",
+            "H1": "Overview of Linux Security Updates and Vulnerabilities: January 6, 2020",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282561,
+        "metadata": {
+            "Keywords": [
+                "Arch Linux",
+                "Linux Kernel",
+                "ISO Release",
+                "Linux Distribution",
+                "Arch User Repository"
+            ],
+            "Description": "Discover the latest Arch Linux ISO release featuring Linux Kernel 5.4 enhancements.",
+            "Tags": [
+                "Distribution",
+                "Arch",
+                "User",
+                "Repository",
+                "Kernel",
+                "ISO",
+                "Release"
+            ],
+            "Title": "New Arch Linux ISO Release with Linux Kernel 5.4 Features",
+            "H1": "Explore the New Features in Arch Linux's 2020 ISO Release with Kernel 5.4",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 282582,
+        "metadata": {
+            "Keywords": [
+                "Linux kernel update",
+                "Ubuntu releases",
+                "Canonical updates"
+            ],
+            "Description": "Canonical's latest kernel update enhances security for all supported Ubuntu versions.",
+            "Tags": [
+                "kernel",
+                "release",
+                "ubuntu",
+                "patch",
+                "security",
+                "update",
+                "canonical"
+            ],
+            "Title": "Major Kernel Update Released for Ubuntu by Canonical",
+            "H1": "Canonical Releases Significant Linux Kernel Update for Ubuntu Users",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282583,
+        "metadata": {
+            "Keywords": [
+                "GRND_INSECURE",
+                "Linux 5.6",
+                "kernel changes",
+                "security options",
+                "random changes"
+            ],
+            "Description": "Explore the new 'insecure' option in Linux 5.6 and its implications for security.",
+            "Tags": [
+                "options",
+                "kernel",
+                "random",
+                "development",
+                "features",
+                "changes",
+                "security"
+            ],
+            "Title": "New Insecure Option in Linux 5.6: GRND_INSECURE Changes",
+            "H1": "Understanding the New Insecure Option in Linux 5.6's GRND_INSECURE Feature",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282583,
+        "metadata": {
+            "Keywords": [
+                "GRND_INSECURE",
+                "Linux 5.6",
+                "kernel changes",
+                "security options",
+                "random changes"
+            ],
+            "Description": "Explore the new 'Insecure' option in Linux 5.6 and its implications for security.",
+            "Tags": [
+                "features",
+                "random",
+                "options",
+                "kernel",
+                "development",
+                "security",
+                "changes"
+            ],
+            "Title": "New Insecure Option Introduced in Linux 5.6 Kernel",
+            "H1": "Understanding the New Insecure Option in Linux 5.6 Kernel Changes",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282602,
+        "metadata": {
+            "Keywords": [
+                "Firefox vulnerability",
+                "browser security",
+                "0-day exploit",
+                "Firefox update",
+                "web browser safety"
+            ],
+            "Description": "Critical Firefox 0-day vulnerability requires immediate browser updates to ensure user safety.",
+            "Tags": [
+                "update",
+                "exploit",
+                "threat",
+                "browser",
+                "security",
+                "Firefox",
+                "vulnerability"
+            ],
+            "Title": "Urgent Firefox 0-Day Vulnerability \u2013 Immediate Update Required",
+            "H1": "Critical Firefox 0-Day Vulnerability Under Active Exploitation \u2013 Update Now",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282618,
+        "metadata": {
+            "Keywords": [
+                "fingerprinting",
+                "Firefox privacy",
+                "web tracking",
+                "browser security",
+                "data protection"
+            ],
+            "Description": "Explore how Firefox blocks fingerprinting to enhance user privacy and security.",
+            "Tags": [
+                "data protection",
+                "privacy",
+                "browser security",
+                "fingerprinting",
+                "web tracking",
+                "user privacy",
+                "Firefox"
+            ],
+            "Title": "Understanding Firefox's Approach to Blocking Fingerprinting",
+            "H1": "How Firefox Protects Users by Blocking Fingerprinting Techniques",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 282622,
+        "metadata": {
+            "Keywords": [
+                "CVE-2019-11046",
+                "Debian DSA-4600-1",
+                "Fedora security update"
+            ],
+            "Description": "Explore critical security updates for Debian and Fedora from January 10th, 2020.",
+            "Tags": [
+                "update",
+                "dovecot",
+                "nethack",
+                "xen",
+                "firefox",
+                "security"
+            ],
+            "Title": "Debian DSA-4600-1 and Fedora Updates: January 2020",
+            "H1": "Critical Security Updates for Debian and Fedora: January 10th, 2020",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282654,
+        "metadata": {
+            "Keywords": [
+                "Arm Chips",
+                "PAN Bypass",
+                "Memory Access Protection",
+                "Security Vulnerability",
+                "CVE-2023-XXXX"
+            ],
+            "Description": "Explore the vulnerabilities in Arm chips related to PAN bypass and their implications.",
+            "Tags": [
+                "arm",
+                "bypass",
+                "protection",
+                "access",
+                "memory",
+                "security",
+                "vulnerability"
+            ],
+            "Title": "Critical PAN Bypass Vulnerability in Arm Chips Exposed",
+            "H1": "Understanding the PAN Bypass Vulnerability in Arm Chips",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282658,
+        "metadata": {
+            "Keywords": [
+                "GPG collision attack",
+                "SHA-1 vulnerability",
+                "cryptographic security",
+                "encryption standards",
+                "digital signatures"
+            ],
+            "Description": "New research reveals GPG collision attacks threaten SHA-1 integrity and security.",
+            "Tags": [
+                "collision",
+                "cryptography",
+                "encryption",
+                "GPG",
+                "digital signature",
+                "vulnerability"
+            ],
+            "Title": "GPG Collision Attacks Signal End of SHA-1 Security",
+            "H1": "Urgent: GPG Collision Attacks Compromise SHA-1 Security Standards",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282660,
+        "metadata": {
+            "Keywords": [
+                "encryption",
+                "Firefox",
+                "Kali Linux",
+                "Arch Linux",
+                "GPG attack"
+            ],
+            "Description": "Explore key updates in Linux security, including Firefox enhancements and encryption trends.",
+            "Tags": [
+                "updates",
+                "Arch",
+                "encryption",
+                "GPG",
+                "Kali",
+                "security",
+                "Firefox"
+            ],
+            "Title": "Firefox 72 Enhancements and Kali Linux Security Updates",
+            "H1": "Key Linux Security Updates: Firefox, Kali, and Encryption Trends",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282660,
+        "metadata": {
+            "Keywords": [
+                "encryption",
+                "Firefox",
+                "Kali Linux",
+                "GPG attack",
+                "Arch Linux"
+            ],
+            "Description": "Explore key updates in Linux security, including encryption and browser improvements.",
+            "Tags": [
+                "Kali",
+                "updates",
+                "Firefox",
+                "security",
+                "GPG",
+                "Arch",
+                "encryption"
+            ],
+            "Title": "Firefox 72 and Kali Linux Security Updates Overview",
+            "H1": "Key Linux Security Updates: Firefox 72 and Kali Linux Changes",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282662,
+        "metadata": {
+            "Keywords": [
+                "kernel hardening",
+                "sysctl parameters",
+                "Linux security best practices"
+            ],
+            "Description": "Explore kernel hardening techniques using sysctl parameters for enhanced Linux security.",
+            "Tags": [
+                "kernel",
+                "configuration",
+                "hardening",
+                "Linux",
+                "sysctl",
+                "security",
+                "parameters"
+            ],
+            "Title": "Enhancing Linux Security with Sysctl Kernel Hardening Techniques",
+            "H1": "Comprehensive Guide to Kernel Hardening with Sysctl Parameters in Linux",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282714,
+        "metadata": {
+            "Keywords": [
+                "Kubernetes security",
+                "bug bounty program",
+                "Kubernetes vulnerabilities",
+                "security assessment",
+                "Kubernetes protection"
+            ],
+            "Description": "Explore the new bug bounty program aimed at enhancing Kubernetes security.",
+            "Tags": [
+                "bug",
+                "assessment",
+                "program",
+                "kubernetes",
+                "bounty",
+                "security",
+                "vulnerabilities"
+            ],
+            "Title": "Kubernetes Bug Bounty Program: Enhancing Security Measures",
+            "H1": "Announcing the Kubernetes Bug Bounty Program for Enhanced Security",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282767,
+        "metadata": {
+            "Keywords": [
+                "data privacy",
+                "facial recognition",
+                "legislation",
+                "Washington State",
+                "security regulations"
+            ],
+            "Description": "Washington State's new legislation aims to enhance data privacy and regulate facial recognition technology.",
+            "Tags": [
+                "Washington",
+                "data",
+                "privacy",
+                "technology",
+                "recognition",
+                "security",
+                "legislation"
+            ],
+            "Title": "Washington State's New Data Privacy and Facial Recognition Legislation",
+            "H1": "New Legislation in Washington State on Data Privacy and Facial Recognition",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 282768,
+        "metadata": {
+            "Keywords": [
+                "CVE-2019-19727",
+                "Fedora security update",
+                "Debian DSA-4600",
+                "libvpx vulnerability",
+                "security patch"
+            ],
+            "Description": "Explore critical security updates and vulnerabilities in Linux systems from January 17, 2020.",
+            "Tags": [
+                "Fedora",
+                "CVE",
+                "patch",
+                "update",
+                "security",
+                "Debian",
+                "vulnerability"
+            ],
+            "Title": "Critical Linux Security Updates: January 17, 2020",
+            "H1": "Overview of Linux Security Advisories and Vulnerabilities on January 17, 2020",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282794,
+        "metadata": {
+            "Keywords": [
+                "Amazon Ring security",
+                "password reuse",
+                "consumer lawsuit",
+                "hacking incidents",
+                "privacy concerns"
+            ],
+            "Description": "Amazon Ring faces lawsuit over blaming users for password reuse in hacks.",
+            "Tags": [
+                "Amazon",
+                "passwords",
+                "consumers",
+                "lawsuit",
+                "Ring",
+                "hacks",
+                "security"
+            ],
+            "Title": "Amazon Ring Lawsuit Challenges Password Reuse Blame",
+            "H1": "Amazon Ring Users Sue Over Blame for Hacking Incidents",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282795,
+        "metadata": {
+            "Keywords": [
+                "SELinux performance",
+                "Fedora 31 SELinux",
+                "AppArmor comparison",
+                "Linux security performance",
+                "system security"
+            ],
+            "Description": "Explore SELinux performance impacts on Fedora 31 and compare with AppArmor.",
+            "Tags": [
+                "SELinux",
+                "AppArmor",
+                "Fedora",
+                "performance",
+                "Linux",
+                "security",
+                "system"
+            ],
+            "Title": "SELinux Performance Analysis on Fedora 31: Key Insights",
+            "H1": "Understanding the Performance Impact of SELinux on Fedora 31 Systems",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282796,
+        "metadata": {
+            "Keywords": [
+                "encryption",
+                "GPG attack",
+                "SELinux",
+                "privacy law",
+                "third-party cookies"
+            ],
+            "Description": "Explore the latest Linux security updates and legislative changes impacting encryption and privacy.",
+            "Tags": [
+                "encryption",
+                "privacy",
+                "mitigation",
+                "vulnerability",
+                "attack",
+                "cookies",
+                "legislation"
+            ],
+            "Title": "GPG Collision Attack Mitigation and Privacy Updates",
+            "H1": "Latest Linux Security Updates: GPG Attacks and Privacy Legislation",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282896,
+        "metadata": {
+            "Keywords": [
+                "CVE-2019-5094",
+                "DSA-4608-1",
+                "Fedora 30",
+                "Debian security",
+                "kernel updates"
+            ],
+            "Description": "Explore critical security updates and vulnerabilities in Linux systems from January 2020.",
+            "Tags": [
+                "Fedora",
+                "encryption",
+                "CVE",
+                "patches",
+                "Debian",
+                "security updates",
+                "vulnerabilities"
+            ],
+            "Title": "Critical Linux Security Updates: January 2020 Advisory",
+            "H1": "January 2020 Linux Advisory: Key Security Updates and Vulnerabilities",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282929,
+        "metadata": {
+            "Keywords": [
+                "Linux Kernel 5.5",
+                "hardware support",
+                "Linus Torvalds",
+                "Linux release",
+                "kernel update"
+            ],
+            "Description": "Explore the enhancements in Linux Kernel 5.5, focusing on improved hardware support.",
+            "Tags": [
+                "performance",
+                "kernel",
+                "hardware",
+                "release",
+                "development",
+                "update",
+                "support"
+            ],
+            "Title": "Enhancements in Linux Kernel 5.5 for Improved Hardware Support",
+            "H1": "Linus Torvalds Unveils Linux Kernel 5.5 with Enhanced Hardware Compatibility",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 282931,
+        "metadata": {
+            "Keywords": [
+                "encryption",
+                "Linux kernel",
+                "privacy",
+                "AI security",
+                "Fedora Workstation"
+            ],
+            "Description": "Explore key updates in Linux security, including encryption and AI implications.",
+            "Tags": [
+                "Fedora",
+                "encryption",
+                "AI",
+                "kernel",
+                "privacy",
+                "software",
+                "security"
+            ],
+            "Title": "Key Updates in Linux Security: January 2020",
+            "H1": "Insights on Linux Security Developments: January 27, 2020",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282973,
+        "metadata": {
+            "Keywords": [
+                "RHEL 8 vulnerabilities",
+                "SQLite bugs",
+                "Magellan 2 patches",
+                "RHEL security update",
+                "Linux bug advisory"
+            ],
+            "Description": "RHEL 8 faces critical SQLite bugs; patches released but vulnerabilities persist.",
+            "Tags": [
+                "bugs",
+                "advisory",
+                "SQLite",
+                "security",
+                "patches",
+                "vulnerabilities",
+                "RHEL"
+            ],
+            "Title": "RHEL 8 Faces Ongoing SQLite Bugs Despite New Patches",
+            "H1": "Critical SQLite Bugs in RHEL 8: Ongoing Vulnerabilities and Patching Issues",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 282979,
+        "metadata": {
+            "Keywords": [
+                "data leakage",
+                "Intel disclosures",
+                "security vulnerabilities",
+                "information security",
+                "data protection"
+            ],
+            "Description": "Intel reveals two new data leakage issues, highlighting critical security vulnerabilities.",
+            "Tags": [
+                "Intel",
+                "information",
+                "disclosures",
+                "data leakage",
+                "protection",
+                "security",
+                "vulnerabilities"
+            ],
+            "Title": "Intel Discloses New Data Leakage Vulnerabilities in Recent Advisory",
+            "H1": "Intel's Latest Data Leakage Disclosures: Key Security Vulnerabilities Unveiled",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283014,
+        "metadata": {
+            "Keywords": [
+                "Apache SpamAssassin",
+                "3.4.4 release",
+                "security update",
+                "bug fixes",
+                "modular architecture"
+            ],
+            "Description": "Apache SpamAssassin 3.4.4 release includes bug fixes and enhancements for improved performance.",
+            "Tags": [
+                "performance",
+                "SpamAssassin",
+                "release",
+                "update",
+                "enhancement",
+                "modular",
+                "bugfix"
+            ],
+            "Title": "Apache SpamAssassin 3.4.4 Release: Key Updates and Fixes",
+            "H1": "Explore the New Features and Fixes in Apache SpamAssassin 3.4.4",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283032,
+        "metadata": {
+            "Keywords": [
+                "WireGuard",
+                "VPN protocol",
+                "Linux kernel",
+                "Torvalds approval",
+                "security features"
+            ],
+            "Description": "WireGuard VPN gains Torvalds' approval with its inclusion in Linux kernel 5.6.",
+            "Tags": [
+                "features",
+                "protocol",
+                "performance",
+                "kernel",
+                "VPN",
+                "approval",
+                "security"
+            ],
+            "Title": "WireGuard VPN Approved for Linux Kernel 5.6 Inclusion",
+            "H1": "WireGuard VPN Protocol Receives Torvalds' Endorsement in Kernel 5.6",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283033,
+        "metadata": {
+            "Keywords": [
+                "OpenSMTPD vulnerability",
+                "RCE exploit",
+                "BSD security",
+                "Linux distros",
+                "email server security"
+            ],
+            "Description": "Explore the RCE vulnerability in OpenSMTPD affecting BSD and Linux systems.",
+            "Tags": [
+                "Linux",
+                "OpenSMTPD",
+                "RCE",
+                "security",
+                "email",
+                "BSD",
+                "vulnerability"
+            ],
+            "Title": "Critical RCE Vulnerability in OpenSMTPD Affects BSD and Linux",
+            "H1": "Impact of RCE Vulnerability in OpenSMTPD on BSD and Linux Distros",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283065,
+        "metadata": {
+            "Keywords": [
+                "Linux SSH GUI",
+                "SSH client",
+                "Linux remote access",
+                "SSH management",
+                "Linux user interface"
+            ],
+            "Description": "Discover Snowflake, the innovative Linux SSH GUI that enhances remote access efficiency.",
+            "Tags": [
+                "management",
+                "remote",
+                "interface",
+                "gui",
+                "access",
+                "linux",
+                "ssh"
+            ],
+            "Title": "Explore Snowflake: The Essential Linux SSH GUI Tool",
+            "H1": "Unlocking the Potential of Snowflake: Your New Linux SSH GUI",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283066,
+        "metadata": {
+            "Keywords": [
+                "CVE-2020-XXXX",
+                "Fedora security update",
+                "Debian DSA-4610-1",
+                "webkit2gtk vulnerabilities",
+                "transfig security fix"
+            ],
+            "Description": "Explore critical security updates for Fedora and Debian, including CVE fixes and vulnerability details.",
+            "Tags": [
+                "Fedora",
+                "transfig",
+                "security update",
+                "CVE",
+                "webkit2gtk",
+                "Debian",
+                "vulnerability"
+            ],
+            "Title": "Critical Security Updates: Fedora & Debian January 2020",
+            "H1": "January 2020 Linux Advisory Watch: Key Security Updates and Fixes",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283093,
+        "metadata": {
+            "Keywords": [
+                "hardware security keys",
+                "OpenSK project",
+                "security key management"
+            ],
+            "Description": "Explore Google's OpenSK project for hardware security keys and its implications.",
+            "Tags": [
+                "hardware",
+                "keys",
+                "authentication",
+                "project",
+                "security",
+                "OpenSK",
+                "Google"
+            ],
+            "Title": "Exploring Google's OpenSK Project for Security Keys",
+            "H1": "Google's OpenSK Project: Advancements in Hardware Security Keys",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283094,
+        "metadata": {
+            "Keywords": [
+                "facial recognition",
+                "government surveillance",
+                "privacy rights",
+                "biometric data",
+                "civil liberties"
+            ],
+            "Description": "Over 40 groups urge a government agency to ban facial recognition technology for privacy protection.",
+            "Tags": [
+                "privacy",
+                "surveillance",
+                "biometrics",
+                "civil rights",
+                "technology",
+                "advocacy",
+                "government"
+            ],
+            "Title": "Advocacy Groups Demand Ban on Facial Recognition Technology",
+            "H1": "Coalition Urges Government to Halt Facial Recognition Use for Privacy",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283097,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "system hardening",
+                "security patches"
+            ],
+            "Description": "Explore essential Linux security updates and best practices for system protection.",
+            "Tags": [
+                "monitoring",
+                "hardening",
+                "threat",
+                "patch",
+                "update",
+                "exploit",
+                "vulnerability"
+            ],
+            "Title": "Critical Linux Vulnerabilities and Security Updates",
+            "H1": "Essential Security Updates for Linux Systems and Best Practices",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283111,
+        "metadata": {
+            "Keywords": [
+                "WireGuard",
+                "VPN technology",
+                "Linux networking",
+                "secure connections",
+                "privacy protection"
+            ],
+            "Description": "Explore how WireGuard revolutionizes VPNs on Linux, enhancing security and performance.",
+            "Tags": [
+                "wireguard",
+                "privacy",
+                "connections",
+                "linux",
+                "networking",
+                "vpn",
+                "security"
+            ],
+            "Title": "Revolutionizing VPNs: WireGuard's Impact on Linux",
+            "H1": "How WireGuard Will Transform VPNs in Linux Environments",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283112,
+        "metadata": {
+            "Keywords": [
+                "encryption backdoors",
+                "privacy threats",
+                "data security",
+                "information security",
+                "cyber threats"
+            ],
+            "Description": "Explore the hidden dangers of encryption backdoors and their impact on privacy.",
+            "Tags": [
+                "encryption",
+                "data",
+                "privacy",
+                "backdoors",
+                "threats",
+                "information",
+                "security"
+            ],
+            "Title": "Understanding Encryption Backdoors and Their Privacy Risks",
+            "H1": "Encryption Backdoors: Unseen Threats to Our Privacy and Security",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283134,
+        "metadata": {
+            "Keywords": [
+                "Sudo vulnerability",
+                "Linux security patch",
+                "macOS exploit",
+                "system vulnerabilities",
+                "security advisory"
+            ],
+            "Description": "Linux and macOS systems face critical Sudo vulnerabilities requiring immediate attention.",
+            "Tags": [
+                "patch",
+                "Linux",
+                "Sudo",
+                "macOS",
+                "security",
+                "exploit",
+                "vulnerability"
+            ],
+            "Title": "Critical Sudo Vulnerability Affects Linux and macOS Systems",
+            "H1": "Urgent Advisory: Sudo Vulnerability Threatens Linux and macOS Security",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283135,
+        "metadata": {
+            "Keywords": [
+                "Chrome 80 security fixes",
+                "Google Chrome updates",
+                "browser security vulnerabilities"
+            ],
+            "Description": "Chrome 80 introduces 56 security fixes and cookie changes to enhance user safety.",
+            "Tags": [
+                "Chrome",
+                "updates",
+                "security",
+                "browser",
+                "vulnerabilities",
+                "cookies",
+                "Google"
+            ],
+            "Title": "Chrome 80 Update: 56 Security Fixes and Cookie Changes",
+            "H1": "Explore Chrome 80's 56 Security Fixes and Important Cookie Changes",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283160,
+        "metadata": {
+            "Keywords": [
+                "Sudo vulnerability",
+                "root privileges",
+                "security patches",
+                "Linux updates",
+                "system security"
+            ],
+            "Description": "Explore patches addressing Sudo vulnerabilities that could grant root access.",
+            "Tags": [
+                "patch",
+                "access",
+                "root",
+                "update",
+                "Sudo",
+                "security",
+                "vulnerability"
+            ],
+            "Title": "Critical Patches for Sudo Utility Vulnerability in Linux",
+            "H1": "Addressing Sudo Utility Vulnerabilities to Prevent Root Access Abuse",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283181,
+        "metadata": {
+            "Keywords": [
+                "CVE-2019-20021",
+                "Debian security update",
+                "Fedora security patch"
+            ],
+            "Description": "Explore critical security updates and patches for various Linux distributions.",
+            "Tags": [
+                "webkitgtk",
+                "xar",
+                "libxmlrpc3",
+                "e2fsprogs",
+                "qemu",
+                "qtbase"
+            ],
+            "Title": "Critical Linux Security Updates: February 2020 Advisory",
+            "H1": "February 2020 Linux Advisory: Key Security Updates and Patches",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283230,
+        "metadata": {
+            "Keywords": [
+                "Google Chrome downloads",
+                "HTTP downloads",
+                "browser security",
+                "download blocking",
+                "web security"
+            ],
+            "Description": "Google Chrome will block HTTP downloads to enhance user security and protect against threats.",
+            "Tags": [
+                "threats",
+                "downloads",
+                "updates",
+                "HTTP",
+                "protection",
+                "security",
+                "browser"
+            ],
+            "Title": "Google Chrome Enhances Security by Blocking HTTP Downloads",
+            "H1": "Google Chrome to Block Downloads Served via HTTP for Enhanced Security",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283232,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "encryption backdoors",
+                "open source VPN",
+                "Sudo vulnerability",
+                "Chrome 80 release"
+            ],
+            "Description": "Explore critical Linux vulnerabilities and updates from February 2020, including encryption backdoors and Sudo issues.",
+            "Tags": [
+                "encryption",
+                "chrome",
+                "developer",
+                "intel",
+                "vpn",
+                "government",
+                "vulnerability"
+            ],
+            "Title": "Critical Linux Vulnerabilities and Updates: February 2020",
+            "H1": "Key Linux Security Updates and Vulnerabilities from February 2020",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283247,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "security misconceptions",
+                "Linux user security",
+                "open source threats",
+                "Linux best practices"
+            ],
+            "Description": "Explore common cybersecurity misconceptions that Linux users still believe and how to address them.",
+            "Tags": [
+                "practices",
+                "misconceptions",
+                "awareness",
+                "users",
+                "threats",
+                "security",
+                "vulnerabilities"
+            ],
+            "Title": "Debunking Common Misconceptions Among Linux Users",
+            "H1": "Understanding 5 Key Cybersecurity Misconceptions for Linux Users",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283247,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "security misconceptions",
+                "Linux user security",
+                "open source threats",
+                "Linux best practices"
+            ],
+            "Description": "Explore common cybersecurity misconceptions that Linux users still believe and how to address them.",
+            "Tags": [
+                "threats",
+                "users",
+                "education",
+                "security",
+                "practices",
+                "misconceptions",
+                "awareness"
+            ],
+            "Title": "Debunking Common Misconceptions About Linux User Security",
+            "H1": "Understanding 5 Misconceptions About Linux User Cybersecurity",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283247,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "security myths",
+                "user awareness",
+                "system protection",
+                "data breaches"
+            ],
+            "Description": "Explore common misconceptions about Linux security that users still believe.",
+            "Tags": [
+                "misconceptions",
+                "users",
+                "protection",
+                "vulnerabilities",
+                "breaches",
+                "awareness",
+                "security"
+            ],
+            "Title": "Debunking Common Myths About Linux Security Practices",
+            "H1": "Understanding 5 Misconceptions About Linux Security Among Users",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283247,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "security myths",
+                "user awareness",
+                "system protection",
+                "data breaches"
+            ],
+            "Description": "Explore common misconceptions about Linux security that users still believe.",
+            "Tags": [
+                "breaches",
+                "protection",
+                "misconceptions",
+                "awareness",
+                "vulnerabilities",
+                "users",
+                "security"
+            ],
+            "Title": "Debunking Common Myths About Linux Security Practices",
+            "H1": "Understanding 5 Misconceptions About Linux Security Among Users",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283247,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "security myths",
+                "user awareness",
+                "system protection",
+                "data breaches"
+            ],
+            "Description": "Explore common misconceptions about Linux security that users still believe.",
+            "Tags": [
+                "vulnerabilities",
+                "awareness",
+                "users",
+                "protection",
+                "security",
+                "breaches",
+                "misconceptions"
+            ],
+            "Title": "Debunking Common Myths About Linux Security Practices",
+            "H1": "Understanding 5 Misconceptions About Linux Security Among Users",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283247,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "user misconceptions",
+                "security practices",
+                "Linux myths",
+                "system protection"
+            ],
+            "Description": "Explore common misconceptions about Linux security and how to address them effectively.",
+            "Tags": [
+                "misconceptions",
+                "user education",
+                "system integrity",
+                "security awareness",
+                "vulnerabilities",
+                "user behavior",
+                "best practices"
+            ],
+            "Title": "Debunking 5 Common Misconceptions About Linux Security",
+            "H1": "Understanding Key Misconceptions About Linux Security Among Users",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283247,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "security misconceptions",
+                "user awareness",
+                "Linux best practices",
+                "system hardening"
+            ],
+            "Description": "Explore common misconceptions about Linux security and enhance your understanding.",
+            "Tags": [
+                "system security",
+                "Linux practices",
+                "user education",
+                "best practices",
+                "vulnerability management",
+                "security awareness",
+                "misconceptions"
+            ],
+            "Title": "Debunking 5 Common Misconceptions About Linux Security",
+            "H1": "Understanding Key Misconceptions About Linux Security for Users",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283247,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "security misconceptions",
+                "user awareness",
+                "Linux best practices",
+                "system hardening"
+            ],
+            "Description": "Explore common misconceptions about Linux security and enhance your understanding.",
+            "Tags": [
+                "best practices",
+                "security education",
+                "misconceptions",
+                "security practices",
+                "user awareness",
+                "Linux users",
+                "system vulnerabilities"
+            ],
+            "Title": "Debunking 5 Common Misconceptions About Linux Security",
+            "H1": "Understanding Key Misconceptions About Linux Security for Users",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283247,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "user misconceptions",
+                "security practices",
+                "Linux myths",
+                "system protection"
+            ],
+            "Description": "Explore common misconceptions about Linux security and enhance your understanding.",
+            "Tags": [
+                "users",
+                "practices",
+                "misconceptions",
+                "protection",
+                "myths",
+                "security",
+                "vulnerabilities"
+            ],
+            "Title": "Debunking 5 Common Misconceptions About Linux Security",
+            "H1": "Understanding Common Misconceptions About Linux Security for Users",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283247,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "user misconceptions",
+                "security practices",
+                "Linux myths",
+                "system protection"
+            ],
+            "Description": "Explore common misconceptions about Linux security and enhance your understanding.",
+            "Tags": [
+                "protection",
+                "practices",
+                "misconceptions",
+                "security",
+                "users",
+                "myths",
+                "vulnerabilities"
+            ],
+            "Title": "Debunking 5 Common Misconceptions About Linux Security",
+            "H1": "Understanding Key Misconceptions About Linux Security for Users",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283247,
+        "metadata": {
+            "Keywords": [
+                "Linux vulnerabilities",
+                "user misconceptions",
+                "Linux security myths",
+                "open source risks",
+                "Linux protection"
+            ],
+            "Description": "Explore common misconceptions about Linux security and how to address them effectively.",
+            "Tags": [
+                "users",
+                "education",
+                "protection",
+                "myths",
+                "misconceptions",
+                "awareness",
+                "vulnerabilities"
+            ],
+            "Title": "Debunking 5 Common Misconceptions About Linux Security",
+            "H1": "Understanding Common Misconceptions About Linux Security Among Users",
+            "Type": "Feature"
+        }
+    },
+    {
+        "id": 283265,
+        "metadata": {
+            "Keywords": [
+                "Huawei telecom access",
+                "network vulnerabilities",
+                "mobile security threats"
+            ],
+            "Description": "U.S. officials warn of Huawei's covert access to telecom networks, raising security concerns.",
+            "Tags": [
+                "Huawei",
+                "networks",
+                "threats",
+                "access",
+                "vulnerabilities",
+                "security",
+                "telecom"
+            ],
+            "Title": "Huawei's Covert Access to Telecom Networks Raises Security Concerns",
+            "H1": "U.S. Officials Warn of Huawei's Covert Access to Mobile Networks",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283265,
+        "metadata": {
+            "Keywords": [
+                "Huawei access",
+                "mobile network vulnerabilities",
+                "telecom security",
+                "network threats",
+                "information security"
+            ],
+            "Description": "U.S. officials alert on Huawei's potential covert access to mobile networks, raising security concerns.",
+            "Tags": [
+                "threats",
+                "telecom",
+                "security",
+                "mobile",
+                "Huawei",
+                "networks",
+                "access"
+            ],
+            "Title": "Huawei's Covert Access to Mobile Networks: Security Advisory",
+            "H1": "U.S. Officials Raise Alarm on Huawei's Covert Network Access Risks",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283266,
+        "metadata": {
+            "Keywords": [
+                "Firefox security update",
+                "Mozilla Firefox vulnerabilities",
+                "DoH provider changes"
+            ],
+            "Description": "Mozilla's Firefox 73 introduces critical security fixes and a new DoH provider.",
+            "Tags": [
+                "doh",
+                "update",
+                "firefox",
+                "vulnerabilities",
+                "security",
+                "mozilla",
+                "browser"
+            ],
+            "Title": "Firefox 73 Security Update: Fixes and DoH Provider Changes",
+            "H1": "Explore Firefox 73's Security Fixes and New DoH Provider Features",
+            "Type": "Advisory"
+        }
+    },
+    {
+        "id": 283282,
+        "metadata": {
+            "Keywords": [
+                "data protection",
+                "privacy laws",
+                "US legislation",
+                "information security",
+                "data governance"
+            ],
+            "Description": "Explore the implications of a new US data protection agency bill on privacy laws.",
+            "Tags": [
+                "governance",
+                "privacy",
+                "protection",
+                "agency",
+                "security",
+                "legislation",
+                "data"
+            ],
+            "Title": "New US Bill Proposes Data Protection Agency for Enhanced Privacy",
+            "H1": "Impacts of Proposed US Data Protection Agency on Privacy Regulations",
+            "Type": "Feature"
+        }
+    }
+]

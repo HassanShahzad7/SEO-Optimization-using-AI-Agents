@@ -1,0 +1,40 @@
+[mysql]
+    host=127.0.0.1
+    port=3306
+    user=myuser
+    password=mypassword
+    database=mydatabase
+    prefix = xu5gc_
+
+[metadata-01]
+    log_file = intro_full_text_metadata_cluster.log
+    log_csv = Operations_Logs.csv
+    tag_log_file=logs/tag_logs.log
+    store_state_file=01.intro-full-text-metadata-state2.json
+    limit=1
+    ; use larger limit if you want to give offset only eg: 18446744073709551615
+    offset=500
+    ; id_gte=1
+    id_desc = 1
+    ; 0 = False , 1 = True
+    gte_date= 
+    ;YYYY-mm-dd eg: 2024-01-25
+    runfortags = 1 
+    max_words=1000
+    max_tokens=500
+    current_id=0
+    counter=0
+    json_file=output/01.intro-full-text-metadata_25_june_2024_global_cluster_10.json
+    base_url=https://linuxsecurity.com
+
+[chatgpt]
+    gpt_model  = 1
+    prompt_key = 6
+
+[max_length]
+    h1_tag=150
+    title=150
+    description=150
+   
+# model="gpt-3.5-turbo-1106"
+# prompt
